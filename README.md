@@ -8,6 +8,7 @@ Curated list of awesome resources to access data from The Cancer Genome Atlas (T
 
 - [TCGA project homepage](https://cancergenome.nih.gov)
 - [Infographic summary of the project](https://cancergenome.nih.gov/PublishedContent/Images/images/tcga-infographic-enlarge.__v100169753.png)
+- [NCI TCGA Wiki](https://wiki.nci.nih.gov/display/TCGA/) - General help about TCGA project. One page you may visit often is the [TCGA barcode](https://wiki.nci.nih.gov/display/TCGA/TCGA+barcode) description.
 - [Data documentation](https://docs.gdc.cancer.gov/Data/Introduction/) - Describe how the data is generated, in particular the details of the bioinformatics pipeline used.
 
 ### Data repositories
@@ -63,7 +64,7 @@ List of analyses performed in a consistent manner on all (or at least several) T
 - [DriverDBv2](http://driverdb.tms.cmu.edu.tw/driverdbv2/index.php) - WES and RNA-seq reanalysis to identify driver genes. Provides a nice graphical summary of mutation clustering in genes (e.g. for *[TP53](http://driverdb.tms.cmu.edu.tw/driverdbv2/gene_data_p.php?genename=TP53&geneproteinid=&submit=submit)*).
 - [ChimerDB](ercsb.ewha.ac.kr/fusiongene) - A comprehensive database of fusion genes encompassing analysis of deep sequencing data (including TCGA) and manual curations.
 - [ASCAT Ploidy and Purity Estimates](http://cancer.sanger.ac.uk/cosmic/download) - [COSMIC](http://cancer.sanger.ac.uk/cosmic) hosts a tab separated table listing the ploidy and aberrant cell fraction (purity estimate), for TCGA samples re-analysed using ASCAT.
-- [BioXpress](https://hive.biochemistry.gwu.edu/cgi-bin/prd/bioxpress/servlet.cgi). - RNA-seq-derived gene expression database, including TCGA among others.
+- [BioXpress](https://hive.biochemistry.gwu.edu/cgi-bin/prd/bioxpress/servlet.cgi) - RNA-seq-derived gene expression database, including TCGA among others.
 
 ## Publications
 
@@ -74,4 +75,4 @@ List of analyses performed in a consistent manner on all (or at least several) T
 - [GenomicDataCommons](https://www.biorxiv.org/content/early/2017/03/15/117200) -  Paper describing the R GenomicDataCommons package.
 - [DriverDBv2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4702919/)
 - [ChimerDB](https://www.ncbi.nlm.nih.gov/pubmed/19906715) - A new paper is in press for v3.0 according to rcsb.ewha.ac.kr/fusiongene.
-- [BioXpress](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4377087/).
+- [BioXpress](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4377087/)
